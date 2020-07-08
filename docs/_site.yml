@@ -1,0 +1,14 @@
+name: "Help in Yelp"
+navbar:
+  title: "Help in Yelp"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "EDA"
+      href: EDA.html
+    - text: "NLP"
+      href: NLP.html
+    - text: "GUI"
+      href: GUI.html
+    
+      
